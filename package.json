@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "проверка работы сервера для себя",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krasovskayav/server.git"
+  },
+  "author": "МшлещкшфЛ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krasovskayav/server/issues"
+  },
+  "homepage": "https://github.com/krasovskayav/server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
